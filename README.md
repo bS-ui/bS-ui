@@ -1,5 +1,3 @@
-![Cover Image](https://i.imgur.com/CGEt49q.jpeg)
-
 # Hi! I'm Brandon Sears 👋
 
 ## About Me
