@@ -14,6 +14,6 @@ I'm actively looking for job opportunities related to Software Development mainl
 ## Contact Me
 Here's a few ways you can get into contact with me!
 * **Gmail** brandonxsears@gmail.com
-* **LinkedIn** [Click Here!] (linkedin.com/in/brandon-sears-7623ba300/)
+* **LinkedIn** [Click Here!](https://www.linkedin.com/in/brandon-sears-7623ba300/)
 
 Thank you for visiting my GitHub profile!
